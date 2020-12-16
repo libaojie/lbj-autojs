@@ -1,1 +1,1 @@
-# lbj-autojs
+# autojs
